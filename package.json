@@ -1,0 +1,34 @@
+{
+  "name": "mozaik-ext-jira-2",
+  "version": "1.0.0",
+  "description": "Jira extension for mozaik",
+  "main": "./src/components/index.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "babelify": "^7.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "mozaik": ">=1.4.3",
+    "react": "^0.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeppao/mozaik-ext-my-jira.git"
+  },
+  "keywords": [
+    "mozaik",
+    "widget",
+    "mozaik-jira"
+  ],
+  "author": "yeppao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeppao/mozaik-ext-my-jira/issues"
+  },
+  "homepage": "https://github.com/yeppao/mozaik-ext-my-jira#readme"
+}
