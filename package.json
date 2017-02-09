@@ -1,6 +1,6 @@
 {
   "name": "mozaik-ext-jira-2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Jira extension for mozaik",
   "main": "./src/components/index.js",
   "dependencies": {
@@ -8,6 +8,7 @@
     "babel-preset-react": "6.5.0",
     "babelify": "7.2.0",
     "bluebird": "3.3.4",
+    "convict": "^0.6.1",
     "react-mixin": "3.0.3",
     "reflux": "0.4.0",
     "superagent": "1.8.3",
